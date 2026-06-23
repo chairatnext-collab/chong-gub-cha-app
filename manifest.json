@@ -1,0 +1,22 @@
+{
+  "name": "บันทึกออเดอร์ชงกับชา",
+  "short_name": "ชงกับชา",
+  "start_url": "https://script.google.com/macros/s/AKfycbwtGF0VbeW1NE-GP71mILa-AMTXHVDZdRtQrRS11mH5kyYkwbqJvjoOnbzW-uRLV3oP/exec",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
